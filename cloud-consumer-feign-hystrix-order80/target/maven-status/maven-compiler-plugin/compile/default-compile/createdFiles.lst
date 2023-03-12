@@ -1,0 +1,4 @@
+com/aiguo/springcloud/OrderHystrixMain80.class
+com/aiguo/springcloud/service/PaymentHystrixService.class
+com/aiguo/springcloud/service/impl/PaymentFallbackServiceImpl.class
+com/aiguo/springcloud/controller/OrderHystrixController.class

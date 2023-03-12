@@ -1,0 +1,4 @@
+com/aiguo/springcloud/service/PaymenFeignService.class
+com/aiguo/springcloud/config/FeignConfig.class
+com/aiguo/springcloud/orderFeignMain80.class
+com/aiguo/springcloud/controller/OrderFeignController.class

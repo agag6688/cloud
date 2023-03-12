@@ -1,0 +1,4 @@
+/Users/aiguo/git/cloud/cloud-consumer-feign-hystrix-order80/src/main/java/com/aiguo/springcloud/service/impl/PaymentFallbackServiceImpl.java
+/Users/aiguo/git/cloud/cloud-consumer-feign-hystrix-order80/src/main/java/com/aiguo/springcloud/controller/OrderHystrixController.java
+/Users/aiguo/git/cloud/cloud-consumer-feign-hystrix-order80/src/main/java/com/aiguo/springcloud/service/PaymentHystrixService.java
+/Users/aiguo/git/cloud/cloud-consumer-feign-hystrix-order80/src/main/java/com/aiguo/springcloud/OrderHystrixMain80.java
